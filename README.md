@@ -77,8 +77,11 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1 - [windowsappruntimeinstall-x64](https://github.com/Hossein-Keoxer-ddijwoijw/downloader/tree/main/downloads/windowsappruntimeinstall-x64)
+1 - [dotnet-core](https://github.com/Hossein-Keoxer-ddijwoijw/downloader/tree/main/downloads/dotnet-core)
+2 - [windowsappruntimeinstall-x64](https://github.com/Hossein-Keoxer-ddijwoijw/downloader/tree/main/downloads/windowsappruntimeinstall-x64)
 
 ---
