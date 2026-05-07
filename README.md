@@ -87,9 +87,10 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1 - [mhrv-rs-android-universal-v1.9.15](https://github.com/Hossein-Keoxer-ddijwoijw/downloader/tree/main/downloads/mhrv-rs-android-universal-v1.9.15)
-2 - [mhrv-rs-windows-amd64](https://github.com/Hossein-Keoxer-ddijwoijw/downloader/tree/main/downloads/mhrv-rs-windows-amd64)
+1 - [mhrv-rs-windows-amd64](https://github.com/Hossein-Keoxer-ddijwoijw/downloader/tree/main/downloads/mhrv-rs-windows-amd64)
 
 ---
